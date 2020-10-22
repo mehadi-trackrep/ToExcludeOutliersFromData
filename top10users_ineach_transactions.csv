@@ -1,0 +1,66 @@
+id,total_transactions,source
+2163,3595,Cash Sale
+3172,1955,Cash Sale
+7084,1378,Cash Sale
+5234,1186,Cash Sale
+1073,911,Cash Sale
+1951,651,Cash Sale
+1391,643,Cash Sale
+73581,491,Cash Sale
+1986,467,Cash Sale
+5062,456,Cash Sale
+
+2163,3595,Credit Sale
+3172,1955,Credit Sale
+7084,1378,Credit Sale
+96796,1353,Credit Sale
+37699,1353,Credit Sale
+96793,1353,Credit Sale
+5234,1186,Credit Sale
+52954,1081,Credit Sale
+15769,1081,Credit Sale
+2408,1081,Credit Sale
+
+2163,3595,Credit Return
+3172,1955,Credit Return
+7084,1378,Credit Return
+37699,1353,Credit Return
+96796,1353,Credit Return
+96793,1353,Credit Return
+5234,1186,Credit Return
+52954,1081,Credit Return
+15769,1081,Credit Return
+2408,1081,Credit Return
+
+2163,3595,Expense
+3172,1955,Expense
+7084,1378,Expense
+37699,1353,Expense
+96793,1353,Expense
+96796,1353,Expense
+5234,1186,Expense
+1073,911,Expense
+1391,643,Expense
+73581,491,Expense
+
+2163,3595,Credit Purchase
+3172,1955,Credit Purchase
+7084,1378,Credit Purchase
+96793,1353,Credit Purchase
+37699,1353,Credit Purchase
+96796,1353,Credit Purchase
+1073,911,Credit Purchase
+1391,643,Credit Purchase
+73581,491,Credit Purchase
+5089,479,Credit Purchase
+
+2163,3595,Credit Purchase Return
+3172,1955,Credit Purchase Return
+7084,1378,Credit Purchase Return
+96793,1353,Credit Purchase Return
+37699,1353,Credit Purchase Return
+96796,1353,Credit Purchase Return
+1073,911,Credit Purchase Return
+1391,643,Credit Purchase Return
+73581,491,Credit Purchase Return
+5089,479,Credit Purchase Return
